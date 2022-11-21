@@ -1,0 +1,86 @@
+.display-flex {
+    display: flex;
+    margin-left: 5%;
+    margin-bottom: 3%;
+
+}
+
+.width {
+    width: 50%;
+}
+
+.width img {
+    width: 150%;
+    margin-left: 57%;
+
+}
+
+.display-flex2 {
+    display: flex;
+    margin-left: 5%;
+}
+
+.width2 {
+    margin-left: 13%;
+}
+
+.flex3 {
+    display: flex;
+    height: 250px;
+
+
+
+}
+
+.shadow {
+    box-shadow: 10px 10px 40px orangered;
+    width: 40%;
+    padding: 15px;
+    margin-left: 5%;
+}
+
+.shadow2 {
+    box-shadow: 10px 10px 40px orangered;
+    width: 40%;
+    padding: 15px;
+    margin-left: 8%;
+}
+
+.top-background {
+    background-image: url(images/top-banner.png);
+    margin: none;
+
+}
+
+.dream-background {
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+
+.ses-background {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.experience {
+    margin-left: 5%;
+}
+
+footer {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.link-batton {
+    background-color: rgb(252, 135, 67);
+    color: aliceblue;
+    padding: 5px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.image2 {
+    width: 500px;
+}
